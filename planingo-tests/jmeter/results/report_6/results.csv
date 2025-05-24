@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1748120554118,12218,GET Home Page,200,OK,Planingo Homepage Test 1-2,text,true,,1155866,336,10,10,https://planingo.ai/,970,0,559
+1748120554118,970,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-2,text,true,,1030,168,10,10,http://planingo.ai/,970,0,559
+1748120555089,11247,GET Home Page-1,200,OK,Planingo Homepage Test 1-2,text,true,,1154836,168,10,10,https://planingo.ai/,1711,0,682
+1748120555128,13227,GET Home Page,200,OK,Planingo Homepage Test 1-3,text,true,,1154890,336,9,9,https://planingo.ai/,574,0,226
+1748120555128,574,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-3,text,true,,1015,168,9,9,http://planingo.ai/,574,0,226
+1748120555703,12652,GET Home Page-1,200,OK,Planingo Homepage Test 1-3,text,true,,1153875,168,9,9,https://planingo.ai/,1883,0,418
+1748120557118,11620,GET Home Page,200,OK,Planingo Homepage Test 1-5,text,true,,1155856,336,8,8,https://planingo.ai/,1944,0,1045
+1748120557118,1944,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-5,text,true,,1015,168,8,8,http://planingo.ai/,1944,0,1045
+1748120559063,9675,GET Home Page-1,200,OK,Planingo Homepage Test 1-5,text,true,,1154841,168,8,8,https://planingo.ai/,1083,0,653
+1748120560123,10358,GET Home Page,200,OK,Planingo Homepage Test 1-8,text,true,,1155797,336,7,7,https://planingo.ai/,1158,0,419
+1748120560123,1159,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-8,text,true,,1022,168,7,7,http://planingo.ai/,1158,0,419
+1748120561283,9198,GET Home Page-1,200,OK,Planingo Homepage Test 1-8,text,true,,1154775,168,7,7,https://planingo.ai/,2143,0,1414
+1748120561115,10993,GET Home Page,200,OK,Planingo Homepage Test 1-9,text,true,,1155803,336,6,6,https://planingo.ai/,1391,0,552
+1748120561115,1391,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-9,text,true,,1024,168,6,6,http://planingo.ai/,1391,0,552
+1748120562507,9601,GET Home Page-1,200,OK,Planingo Homepage Test 1-9,text,true,,1154779,168,6,6,https://planingo.ai/,2549,0,1477
+1748120562121,10590,GET Home Page,200,OK,Planingo Homepage Test 1-10,text,true,,1155806,336,5,5,https://planingo.ai/,1397,0,629
+1748120562121,1397,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-10,text,true,,1020,168,5,5,http://planingo.ai/,1397,0,629
+1748120563520,9191,GET Home Page-1,200,OK,Planingo Homepage Test 1-10,text,true,,1154786,168,5,5,https://planingo.ai/,2956,0,1797
+1748120553268,20570,GET Home Page,200,OK,Planingo Homepage Test 1-1,text,true,,1165385,336,4,4,https://planingo.ai/,1296,0,589
+1748120553268,1310,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-1,text,true,,1022,168,4,4,http://planingo.ai/,1296,0,589
+1748120554584,19254,GET Home Page-1,200,OK,Planingo Homepage Test 1-1,text,true,,1164363,168,4,4,https://planingo.ai/,1738,0,1183
+1748120559117,15137,GET Home Page,200,OK,Planingo Homepage Test 1-7,text,true,,1155841,336,3,3,https://planingo.ai/,741,0,366
+1748120559117,741,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-7,text,true,,1024,168,3,3,http://planingo.ai/,741,0,366
+1748120559859,14395,GET Home Page-1,200,OK,Planingo Homepage Test 1-7,text,true,,1154817,168,3,3,https://planingo.ai/,1381,0,597
+1748120556116,18791,GET Home Page,200,OK,Planingo Homepage Test 1-4,text,true,,1136751,336,2,2,https://planingo.ai/,610,0,215
+1748120556116,610,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-4,text,true,,1011,168,2,2,http://planingo.ai/,610,0,215
+1748120556727,18180,GET Home Page-1,200,OK,Planingo Homepage Test 1-4,text,true,,1135740,168,2,2,https://planingo.ai/,2954,0,1684
+1748120558122,18038,GET Home Page,200,OK,Planingo Homepage Test 1-6,text,true,,1155772,336,1,1,https://planingo.ai/,1277,0,856
+1748120558122,1277,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-6,text,true,,1025,168,1,1,http://planingo.ai/,1277,0,856
+1748120559400,16760,GET Home Page-1,200,OK,Planingo Homepage Test 1-6,text,true,,1154747,168,1,1,https://planingo.ai/,1369,0,448

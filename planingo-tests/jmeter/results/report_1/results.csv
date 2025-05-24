@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1748120783175,4809,GET Home Page,200,OK,Planingo Homepage Test 1-1,text,true,,1155775,336,6,6,https://planingo.ai/,562,0,372
+1748120783175,568,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-1,text,true,,1015,168,6,6,http://planingo.ai/,562,0,372
+1748120783746,4238,GET Home Page-1,200,OK,Planingo Homepage Test 1-1,text,true,,1154760,168,6,6,https://planingo.ai/,1713,0,964
+1748120784949,5447,GET Home Page,200,OK,Planingo Homepage Test 1-3,text,true,,1155849,336,7,7,https://planingo.ai/,675,0,161
+1748120784949,675,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-3,text,true,,1024,168,7,7,http://planingo.ai/,675,0,161
+1748120785627,4769,GET Home Page-1,200,OK,Planingo Homepage Test 1-3,text,true,,1154825,168,7,7,https://planingo.ai/,977,0,442
+1748120783977,8954,GET Home Page,200,OK,Planingo Homepage Test 1-2,text,true,,1155809,336,8,8,https://planingo.ai/,300,0,163
+1748120783977,300,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-2,text,true,,1017,168,8,8,http://planingo.ai/,300,0,163
+1748120784278,8653,GET Home Page-1,200,OK,Planingo Homepage Test 1-2,text,true,,1154792,168,8,8,https://planingo.ai/,855,0,379
+1748120787942,6875,GET Home Page,200,OK,Planingo Homepage Test 1-6,text,true,,1155835,336,7,7,https://planingo.ai/,690,0,150
+1748120787942,691,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-6,text,true,,1022,168,7,7,http://planingo.ai/,690,0,150
+1748120788633,6184,GET Home Page-1,200,OK,Planingo Homepage Test 1-6,text,true,,1154813,168,7,7,https://planingo.ai/,1658,0,926
+1748120785949,9622,GET Home Page,200,OK,Planingo Homepage Test 1-4,text,true,,1155769,336,6,6,https://planingo.ai/,312,0,149
+1748120785949,312,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-4,text,true,,1021,168,6,6,http://planingo.ai/,312,0,149
+1748120786262,9309,GET Home Page-1,200,OK,Planingo Homepage Test 1-4,text,true,,1154748,168,6,6,https://planingo.ai/,1543,0,819
+1748120786951,10703,GET Home Page,200,OK,Planingo Homepage Test 1-5,text,true,,1155839,336,5,5,https://planingo.ai/,847,0,397
+1748120786951,847,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-5,text,true,,1015,168,5,5,http://planingo.ai/,847,0,397
+1748120787801,9853,GET Home Page-1,200,OK,Planingo Homepage Test 1-5,text,true,,1154824,168,5,5,https://planingo.ai/,1303,0,372
+1748120788950,9229,GET Home Page,200,OK,Planingo Homepage Test 1-7,text,true,,1155823,336,4,4,https://planingo.ai/,925,0,447
+1748120788950,925,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-7,text,true,,1017,168,4,4,http://planingo.ai/,925,0,447
+1748120789876,8303,GET Home Page-1,200,OK,Planingo Homepage Test 1-7,text,true,,1154806,168,4,4,https://planingo.ai/,1659,0,987
+1748120790948,9832,GET Home Page,200,OK,Planingo Homepage Test 1-9,text,true,,1155780,336,3,3,https://planingo.ai/,961,0,291
+1748120790948,961,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-9,text,true,,1022,168,3,3,http://planingo.ai/,961,0,291
+1748120791912,8868,GET Home Page-1,200,OK,Planingo Homepage Test 1-9,text,true,,1154758,168,3,3,https://planingo.ai/,2622,0,1512
+1748120791939,9663,GET Home Page,200,OK,Planingo Homepage Test 1-10,text,true,,1155827,336,2,2,https://planingo.ai/,1337,0,611
+1748120791939,1337,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-10,text,true,,1019,168,2,2,http://planingo.ai/,1337,0,611
+1748120793276,8326,GET Home Page-1,200,OK,Planingo Homepage Test 1-10,text,true,,1154808,168,2,2,https://planingo.ai/,2387,0,1794
+1748120789953,12149,GET Home Page,200,OK,Planingo Homepage Test 1-8,text,true,,1155852,336,1,1,https://planingo.ai/,788,0,474
+1748120789953,788,GET Home Page-0,301,Moved Permanently,Planingo Homepage Test 1-8,text,true,,1017,168,1,1,http://planingo.ai/,788,0,474
+1748120790742,11360,GET Home Page-1,200,OK,Planingo Homepage Test 1-8,text,true,,1154835,168,1,1,https://planingo.ai/,1273,0,586
