@@ -1,0 +1,6 @@
+# Ignore JMeter results
+jmeter/results/result.jtl
+jmeter/results/report/*
+
+# Ignore Postman output (optional)
+postman/output/
